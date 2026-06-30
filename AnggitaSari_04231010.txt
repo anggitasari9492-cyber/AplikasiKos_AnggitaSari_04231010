@@ -1,0 +1,6 @@
+Nama: Anggita Sari
+NIM: 04231010
+Mata Kuliah: Pemrograman Berbasis Objek
+Tugas: Persiapan PBL CPMK-4
+Repository: AplikasiKos_AnggitaSari_04231010
+Keterangan: File ini dibuat sebagai bukti latihan Git, commit, dan push ke GitHub.
